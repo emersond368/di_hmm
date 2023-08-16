@@ -1,0 +1,1 @@
+python plot_domain_DI.py chr10_kr_qnormed_merge_allcond_0.5_10000_240min_chr10_below0.5.npz mitosis240min_merge_DI200_finaldomains_chr10.bed mitosis240min_merge_DI200_DIscore.bed -500 500 chr10 28000000 48000000 10000 5 
